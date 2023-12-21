@@ -10,5 +10,6 @@ int main(){
     else{
         printf("Waxan waa howl kale\n");
     }
+    printf("Xaalka seewaaye?");
 
 }
